@@ -1,0 +1,70 @@
+Year,Month,Volume_Millions,Value_Crores,State
+2019,April,782,1.42,Maharashtra
+2019,May,823,1.51,Karnataka
+2019,June,891,1.63,Delhi
+2019,July,962,1.78,Tamil Nadu
+2019,August,1045,1.92,Telangana
+2019,September,1128,2.11,Gujarat
+2019,October,1215,2.34,Rajasthan
+2019,November,1298,2.52,West Bengal
+2019,December,1412,2.71,Uttar Pradesh
+2020,January,1305,2.55,Maharashtra
+2020,February,1328,2.61,Karnataka
+2020,March,1246,2.43,Delhi
+2020,April,999,1.95,Tamil Nadu
+2020,May,1126,2.19,Telangana
+2020,June,1337,2.61,Gujarat
+2020,July,1488,2.90,Rajasthan
+2020,August,1601,3.12,West Bengal
+2020,September,1799,3.51,Uttar Pradesh
+2020,October,2071,4.02,Maharashtra
+2020,November,2213,4.31,Karnataka
+2020,December,2373,4.62,Delhi
+2021,January,2305,4.31,Tamil Nadu
+2021,February,2291,4.25,Telangana
+2021,March,2732,5.04,Gujarat
+2021,April,2643,4.93,Rajasthan
+2021,May,2530,4.71,West Bengal
+2021,June,2802,5.47,Uttar Pradesh
+2021,July,3244,6.06,Maharashtra
+2021,August,3558,6.39,Karnataka
+2021,September,3654,6.54,Delhi
+2021,October,4214,7.71,Tamil Nadu
+2021,November,4178,7.67,Telangana
+2021,December,4564,8.26,Gujarat
+2022,January,4617,8.32,Rajasthan
+2022,February,4522,8.26,West Bengal
+2022,March,5358,9.60,Uttar Pradesh
+2022,April,5580,9.83,Maharashtra
+2022,May,5957,10.40,Karnataka
+2022,June,6274,10.14,Delhi
+2022,July,6284,10.62,Tamil Nadu
+2022,August,6577,10.73,Telangana
+2022,September,6775,11.14,Gujarat
+2022,October,7305,12.11,Rajasthan
+2022,November,7312,11.90,West Bengal
+2022,December,7828,12.82,Uttar Pradesh
+2023,January,8035,12.98,Maharashtra
+2023,February,7518,12.35,Karnataka
+2023,March,8671,14.05,Delhi
+2023,April,8893,14.07,Tamil Nadu
+2023,May,9412,14.89,Telangana
+2023,June,9337,14.75,Gujarat
+2023,July,9960,15.34,Rajasthan
+2023,August,10585,15.76,West Bengal
+2023,September,10561,15.80,Uttar Pradesh
+2023,October,11407,17.16,Maharashtra
+2023,November,11235,17.40,Karnataka
+2023,December,12027,18.23,Delhi
+2024,January,12199,18.41,Tamil Nadu
+2024,February,12019,18.28,Telangana
+2024,March,13441,19.78,Gujarat
+2024,April,13302,19.64,Rajasthan
+2024,May,14036,20.44,West Bengal
+2024,June,13886,20.07,Uttar Pradesh
+2024,July,14439,20.64,Maharashtra
+2024,August,14964,21.82,Karnataka
+2024,September,15048,20.64,Delhi
+2024,October,16582,23.49,Tamil Nadu
+2024,November,15547,21.55,Telangana
+2024,December,16731,23.25,Gujarat
